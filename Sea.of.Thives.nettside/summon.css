@@ -1,0 +1,28 @@
+*{
+    background-image: url(megaladon.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center 0%;
+    background-attachment: fixed;
+}
+
+a{
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 0.5px rgba(32, 158, 114, 0.807);
+    font-size: 2vw;
+}
+
+
+h1{
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 0.5px rgba(32, 158, 114, 0.807);
+    font-size: 3vw;
+}
+
+
+
+p{
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 0.5px rgba(32, 158, 114, 0.807);
+    font-size: 2vw;
+}

@@ -1,0 +1,27 @@
+*{
+    background-image: url(We_shall_sail.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center 0%;
+    background-attachment: fixed;
+}
+
+h3{
+    color: rgb(110, 5, 208);
+    -webkit-text-stroke: 0.3px black;
+    font-size: 1,5vw;
+
+}
+
+
+h1{
+    color: rgb(110, 5, 208);
+    -webkit-text-stroke: 0.3px black;
+}
+
+a{
+    color: rgb(110, 5, 208);
+    -webkit-text-stroke: 0.3px black;
+    font-size: 2vw;
+
+}

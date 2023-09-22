@@ -1,0 +1,21 @@
+h2{
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 0.3px black;
+}
+
+
+h1{
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 0.3px rgb(68, 2, 2);
+}
+
+
+a{
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 0.3px rgb(83, 2, 2);
+    font-size: 2vw;
+
+}
+
+
+

@@ -1,0 +1,13 @@
+*{
+    background-image: url(hjem.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center 0%;
+    background-attachment: fixed;
+}
+
+a{
+    color: rgb(2, 2, 2);
+    -webkit-text-stroke: 0.5px rgba(252, 252, 252, 0.807);
+    font-size: 4vw;
+}

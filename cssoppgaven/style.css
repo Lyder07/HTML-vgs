@@ -1,0 +1,40 @@
+h1{ class=myclass1
+Color: orange;
+background-color: green;
+padding: 20px;
+text-align: center;
+
+}
+
+h2{ class=myclass2
+color:black;
+background-color: green;
+padding:20px;
+text-align: center;
+}
+
+h5{  class=myclass3
+color:green;
+background-color: orange;
+padding: 20px;
+text-align: center;
+}
+
+.bilder #a{
+
+display: flex;
+
+}
+
+
+
+header{
+background-color: ;
+
+
+}
+
+
+
+
+
